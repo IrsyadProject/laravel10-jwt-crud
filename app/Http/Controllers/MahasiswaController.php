@@ -59,7 +59,7 @@ class MahasiswaController extends Controller
     {
         $validator = Validator::make($request->all(), [
             'nama' => 'required|string|max:255|unique:mahasiswa,nama,' . $id,
-            'hp' => 'required|numeric|digits:10',
+            'hp' => 'required|numeric|min_digits:10',
             'alamat' => 'required'
         ]);
 
