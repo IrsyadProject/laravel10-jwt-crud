@@ -4,39 +4,39 @@
 
 ### Register Users:
 
-<img src="./ss-register.png" alt="Register" width="80%">
+<img src="./ss-register.png" alt="Register" >
 
 ### Login Users:
 
-<img src="./ss-login.png" alt="Login" width="80%">
+<img src="./ss-login.png" alt="Login" >
 
 ### Index Users:
 
-<img src="./ss-indexusers.png" alt="Users" width="80%">
+<img src="./ss-indexusers.png" alt="Users" >
 
 ### Logout:
 
-<img src="./ss-logout.png" alt="Logout" width="80%">
+<img src="./ss-logout.png" alt="Logout" >
 
 ### Add Mahasiswa:
 
-<img src="./ss-addmahasiswa.png" alt="Add Mahasiswa" width="80%">
+<img src="./ss-addmahasiswa.png" alt="Add Mahasiswa" >
 
 ### Index Mahasiswa:
 
-<img src="./ss-indexmahasiswa-with-pagination.png" alt="Index Mahasiswa" width="80%">
+<img src="./ss-indexmahasiswa-with-pagination.png" alt="Index Mahasiswa" >
 
 ### Show Mahasiswa by ID:
 
-<img src="./ss-showmahasiswabyid.png" alt="Mahasiswa by ID" width="80%">
+<img src="./ss-showmahasiswabyid.png" alt="Mahasiswa by ID" >
 
 ### Update Mahasiswa:
 
-<img src="./ss-update-mahasiswa.png" alt="Update Mahasiswa" width="80%">
+<img src="./ss-update-mahasiswa.png" alt="Update Mahasiswa" >
 
 ### Delete Mahasiswa:
 
-<img src="./ss-delete-mahasiswa.png" alt="Delete Mahasiswa" width="80%">
+<img src="./ss-delete-mahasiswa.png" alt="Delete Mahasiswa" >
 
 ## About Laravel
 
